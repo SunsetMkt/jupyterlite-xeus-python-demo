@@ -5,4 +5,14 @@ channels:
 dependencies:
   - python=3.11
   - xeus-python
-  - ipycanvas
+  - xeus-lua
+  - xeus-nelson
+  - xeus-javascript
+  - xeus-cpp
+  - xeus-r
+  - numpy
+  - matplotlib
+  - pillow
+  - ipywidgets
+  - pip:
+      - ipycanvas
