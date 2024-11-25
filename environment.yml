@@ -13,5 +13,6 @@ dependencies:
   - matplotlib
   - pillow
   - ipywidgets
-  - pip:
-      - ipycanvas
+  - ipycanvas
+  # - pip:
+  #     - ipycanvas
