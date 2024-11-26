@@ -7,3 +7,33 @@ dependencies:
   - jupyter_server
   - jupyterlite-core-with-all>=0.4.1,<0.5.0
   - jupyterlite-xeus>=2.0.0,<3
+  # Language support
+  - jupyterlab-language-pack-ar-SA
+  - jupyterlab-language-pack-ca-ES
+  - jupyterlab-language-pack-cs-CZ
+  - jupyterlab-language-pack-da-DK
+  - jupyterlab-language-pack-de-DE
+  - jupyterlab-language-pack-el-GR
+  - jupyterlab-language-pack-es-ES
+  - jupyterlab-language-pack-et-EE
+  - jupyterlab-language-pack-fi-FI
+  - jupyterlab-language-pack-fr-FR
+  - jupyterlab-language-pack-he-IL
+  - jupyterlab-language-pack-hu-HU
+  - jupyterlab-language-pack-hy-AM
+  - jupyterlab-language-pack-id-ID
+  - jupyterlab-language-pack-it-IT
+  - jupyterlab-language-pack-ja-JP
+  - jupyterlab-language-pack-ko-KR
+  - jupyterlab-language-pack-lt-LT
+  - jupyterlab-language-pack-nl-NL
+  - jupyterlab-language-pack-no-NO
+  - jupyterlab-language-pack-pl-PL
+  - jupyterlab-language-pack-pt-BR
+  - jupyterlab-language-pack-ro-RO
+  - jupyterlab-language-pack-ru-RU
+  - jupyterlab-language-pack-tr-TR
+  - jupyterlab-language-pack-uk-UA
+  - jupyterlab-language-pack-vi-VN
+  - jupyterlab-language-pack-zh-CN
+  - jupyterlab-language-pack-zh-TW
